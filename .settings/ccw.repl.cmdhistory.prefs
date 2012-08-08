@@ -1,0 +1,2 @@
+cmdhistory=["(+ 1 1)" "(def server (jetty/run-jetty \#'app {\:port 8080 \:join? false}))" "(defonce server (jetty/run-jetty \#'app {\:port 8080 \:join? false}))" "(def server (jetty/run-jetty \#'app {\:port 8080 \:join? false}))" "(app {\:uri \\"/hello\\"})" "urls" "(def server (jetty/run-jetty \#'app {\:port 8080 \:join? false}))" "urls" "(def server (jetty/run-jetty \#'app {\:port 8080 \:join? false}))" "urls" "(def server (jetty/run-jetty \#'app {\:port 8080 \:join? false}))" "urls" "(jetty/run-jetty app {\:port 8080 \:join? false})"]
+eclipse.preferences.version=1
